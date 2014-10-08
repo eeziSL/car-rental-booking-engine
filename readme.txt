@@ -1,4 +1,4 @@
-=== car rental booking engine by Hispacar ===
+=== Car Rental Booking Engine by Hispacar ===
 Contributors: Hispacar
 Donate link: http://www.hispacar.com/donate/
 Tags: car rental, car hire, alquiler de coches, location de voitures, mietwagen, autovermietung, autonoleggio, autohuur, huurwagen, hispacar, travel, viajes, voyages, reisen, viaggo, reizen, affiliate, afiliado
