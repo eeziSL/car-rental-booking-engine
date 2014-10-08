@@ -39,7 +39,7 @@
 <h2>
 	Frequently Asked Questions</h2>
 <p>
-	<strong>How can I get an Affiliate</strong></p>
+	<strong>How can I get an Affiliate ID?</strong></p>
 <p>
 	Visit the plugin's <a href="http://www.hispacar.com/wordpress-plugins/search/en/">official website</a> to register or use the corresponding link in the setup screen of the plugin You can also <a href="http://www.hispacar.com/wordpress-plugins/search/en/register/">register here</a> and request an affiliate ID on the official website of the plugin.</p>
 <p>
