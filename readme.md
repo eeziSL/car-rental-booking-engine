@@ -16,9 +16,10 @@
 	Install the plugin now and start earning money with Hispacar today.</p>
 <h2>Installation</h2>
 <p>
-	To install the latest stable build of our Car Rental Booking Engine for WordPress, we recommend you download the plugin directly from the <a href="https://wordpress.org/plugins/car-rental-booking-engine-by-hispacar/">WordPress plugin repository</a>.</p>
+	This is the latest stable build of the car hire price comparison plugin from <a href="http://www.hispacar.com/">Hispacar</a>.</p>
 <p>
-	This is the latest stable version of the car hire price comparison plugin from <a href="http://www.hispacar.com/">Hispacar</a>. If you would like to contribute to or test the developer build please contact our development team.</p>
+	To install the Car Rental Booking Engine for WordPress, we recommend you download the plugin directly from the <a href="https://wordpress.org/plugins/car-rental-booking-engine-by-hispacar/">WordPress plugin repository</a>. If you would like to contribute to or test the developer build please contact our development team.</p>
+
 <h2>
 	Support</h2>
 <p>
