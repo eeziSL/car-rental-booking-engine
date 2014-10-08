@@ -29,9 +29,9 @@
 <p>
 	The plugin can be used as a car hire search box in any page or post on your blog or as a search widget in your sidebar. Visit the examples below if you want to see the Hispacar search boxes in action live.</p>
 <p>
-	<a href="http://www.discovermijas.com/">Discover Mijas</a> A great example of the car rental search box used as a widget in the sidebar.</p>
+	<a href="http://www.discovermijas.com/">Discover Mijas</a>. A great example of the car rental search box used as a widget in the sidebar.</p>
 <p>
-	<a href="http://www.treesformijas.org/en/blog/proud-sponsor/">Trees for Mijas</a>See the plugin in action on a post.</p>
+	<a href="http://www.treesformijas.org/en/blog/proud-sponsor/">Trees for Mijas</a>. See the plugin in action on a post. The plugin can also be used on a page.</p>
 <h2>
 	Bugs</h2>
 <p>
