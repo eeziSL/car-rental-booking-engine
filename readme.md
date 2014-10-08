@@ -3,7 +3,7 @@
 <p>
 	This Wordpress plugin adds a car rental search box to your blog so visitors can check availability and compare prices of over 750 car hire companies worldwide.</p>
 <p>
-	The plugin calculates prices and availability in more than 30.000 destinations all around the world. It is a great source of income for bloggers as every booking automatically generates a commission.</p>
+	This plugin is developed by <a href="http://www.hispacar.com/">Hispacar</a> abnd aautomatically calculates prices and availability in more than 30.000 destinations around the world. It is a great source of income for bloggers as every booking automatically generates a commission.</p>
 <p>
 	<strong>Main Features</strong></p>
 <ul>
@@ -18,7 +18,7 @@
 <p>
 	To install the latest stable build of our Car Rental Booking Engine for WordPress, we recommend you download the plugin directly from the <a href="https://wordpress.org/plugins/car-rental-booking-engine-by-hispacar/">WordPress plugin repository</a>.</p>
 <p>
-	This plugin is developed by <a href="http://www.hispacar.com/">Hispacar</a> a company which offers cheap car hire in more than 30.000 destinations worldwide. If you would like to contribute to or test the developer build please contact our development team.</p>
+	This is the latest stable version of the car hire price comparison plugin from <a href="http://www.hispacar.com/">Hispacar</a>. If you would like to contribute to or test the developer build please contact our development team.</p>
 <h2>
 	Support</h2>
 <p>
